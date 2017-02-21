@@ -1,0 +1,2 @@
+# PageScrollControllerDemo
+利用UIScrollView封装的一个分页显示多子视图控制器类
