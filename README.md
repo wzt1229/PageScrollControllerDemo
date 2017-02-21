@@ -2,11 +2,10 @@
 利用UIScrollView封装的一个分页显示多子视图控制器类
 
 
-<!DOCTYPE html>
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title></title> 
+<title>Hello</title> 
 </head>
 <body>
 
