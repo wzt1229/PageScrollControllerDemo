@@ -6,12 +6,14 @@
 <head> 
 <meta charset="utf-8"> 
 <title>Hello</title> 
+<video width="320" height="240" controls autoplay>
+<source src="Test1.mov" type="mov">
+</video>
 </head>
 <body>
 
 <video width="320" height="240" controls autoplay>
 <source src="Test1.mov" type="mov">
-
 </video>
 
 </body>
