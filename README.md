@@ -2,3 +2,18 @@
 利用UIScrollView封装的一个分页显示多子视图控制器类
 
 
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
+</head>
+<body>
+
+<video width="320" height="240" controls autoplay>
+<source src="Test1.mov" type="mov">
+
+</video>
+
+</body>
+</html>
